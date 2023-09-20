@@ -1,0 +1,39 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.encabezado{
+    background-color: rgb(97, 97, 231);
+    height: 100px;
+    position: relative;
+}
+
+.usuario{
+    position: absolute;
+    width: 80px;
+    top: 55px;
+    left: 20px;
+    border-radius: 50%;
+    border-color: rgb(238, 232, 232);
+    border-style: solid;
+    border-width: 2px;  
+}
+
+.cuerpo{
+    padding: 25px;  
+    border: 2px solid rgb(231, 224, 224)
+}
+
+.iconos{
+    width: 12px;
+    padding: 2px;
+    margin-right: 5px;
+}
+
+.ubicacion{
+    margin-bottom: 10px;
+}
+
+.edicion{
+    margin-top: 10px;
+}
